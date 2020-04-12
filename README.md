@@ -2,7 +2,7 @@
 
 [Exfiltrating Files With A Pi Zero | P4wnP1 A.L.O.A.](https://www.youtube.com/watch?v=I_BjCdJlCo4) 
 
-[P4wnP1 A.L.O.A.](https://github.com/RoganDawes/P4wnP1_aloa) 
+[P4wnP1 A.L.O.A.](https://github.com/RoganDawes/P4wnP1_aloa) - [Download](https://github.com/RoganDawes/P4wnP1_aloa/releases) 
 
 [[tutorial] How to connect P4wnP1 to Internet](https://www.youtube.com/watch?v=QEWaIoal5qU) 
 
