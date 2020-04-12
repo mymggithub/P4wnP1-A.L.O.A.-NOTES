@@ -4,10 +4,10 @@
 
 [P4wnP1 A.L.O.A.](https://github.com/RoganDawes/P4wnP1_aloa) - [Download](https://github.com/RoganDawes/P4wnP1_aloa/releases) 
 
-[[tutorial] How to connect P4wnP1 to Internet](https://www.youtube.com/watch?v=QEWaIoal5qU) 
-
 [DEVICE INFO](https://www.myfakeinfo.com/mobile/get-android-device-information.php) 
 
+
+## [[tutorial] How to connect P4wnP1 to Internet](https://www.youtube.com/watch?v=QEWaIoal5qU) 
 
 
 Windows PowerShell
